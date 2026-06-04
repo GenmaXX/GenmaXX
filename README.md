@@ -71,16 +71,18 @@ I also have experience as a **Bug Hunter**, with a focus on web security testing
 
 ## Security Interest
 
-```txt
-Authentication & Authorization
-Broken Access Control
-IDOR
-XSS
-SQL Injection
-API Security
-Security Misconfiguration
-Business Logic Vulnerabilities
-````
+<div align="center">
+
+<img src="https://img.shields.io/badge/Authentication%20%26%20Authorization-0F172A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Broken%20Access%20Control-1E293B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IDOR-334155?style=for-the-badge" />
+<img src="https://img.shields.io/badge/XSS-7F1D1D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL%20Injection-991B1B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/API%20Security-1E3A8A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Security%20Misconfiguration-312E81?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Business%20Logic-14532D?style=for-the-badge" />
+
+</div>
 
 ---
 
@@ -96,8 +98,8 @@ Open for collaboration, freelance projects, web development, and security testin
   <img src="https://img.shields.io/badge/Gmail-fjrxakmall%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://example.com">
-  <img src="https://img.shields.io/badge/Portfolio-Website-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<a href="https://github.com/GenmaXX">
+  <img src="https://img.shields.io/badge/GitHub-GenmaXX-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
