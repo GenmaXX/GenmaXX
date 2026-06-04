@@ -92,7 +92,6 @@ I also have experience as a **Bug Hunter**, with a focus on web security testing
 
 Open for collaboration, freelance projects, web development, and security testing work.
 
-<br /><br />
 
 <a href="mailto:fjrxakmall@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-fjrxakmall%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
